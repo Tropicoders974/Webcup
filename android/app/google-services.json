@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012176445756",
+    "project_id": "agent-double-cc1nrm",
+    "storage_bucket": "agent-double-cc1nrm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012176445756:android:0787adff8d9cfec4673e39",
+        "android_client_info": {
+          "package_name": "com.mycompany.agentdouble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIB3_q-RA0-3oMETiZQQ3OBSegkH56_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
